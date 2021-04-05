@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fearlessgirl123
-- 👀 I’m interested in ...research
-- 🌱 I’m currently learning ...how to stay busy during "so called" Covid. #OVERIT
-- 💞️ I’m looking to collaborate on ... hometown history
-- 📫 How to reach me ... ✨ special ✨ repository AFK
+- 👋 Hi, I’m NoOne
+- 👀 I’m interested in ...anything other than what I am doing.....
+- 🌱 I’m currently learning ...how NOT to scream at people
+- 💞️ I’m looking to collaborate on ...truth
+- 📫 How to reach me ... You Can't....sorry
 
 <!---
 fearlessgirl23/fearlessgirl23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
